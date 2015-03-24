@@ -1,0 +1,21 @@
+{
+  "uuid": "273761eb-97dc-4f08-b353-3384a2170902",
+  "shortName": "PebblePointer",
+  "longName": "PebblePointer",
+  "companyName": "Callender Consulting",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "IMAGE_PEBBLEPOINTER",
+        "file": "images/pebblepointer.png"
+      }
+    ]
+  }
+}
